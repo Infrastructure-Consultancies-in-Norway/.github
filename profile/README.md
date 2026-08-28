@@ -2,8 +2,8 @@
 
 ## Introduction
 Infrastructure Consultancies in Norway is a initiative to standarize BIM information. 
-Consist of following firms:
-- Aas-Jakobsen
+Initiated by following firms:
+- Aas-Jakobsen (Acquired by Norconsult)
 - Norconsult
 - Sweco
 - COWI
